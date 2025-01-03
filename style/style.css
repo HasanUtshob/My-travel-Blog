@@ -20,6 +20,7 @@
 .sherpur_paragraph{
     font-size: 20px;
     font-weight: bold;
+    text-align: justify;
 }
 .sherpur_section{
     border: 10px solid tomato;
@@ -34,7 +35,7 @@
 .img{
     width: 300px;
     height: 300px;
-    align-content: center;
+    margin-left: 10px;
 }
 .image_section{
     border: 10px solid rgb(106, 168, 25);
@@ -43,6 +44,5 @@
 }
 .list_item{
     margin-left: 30px;
-    color: blueviolet;
-    
+    color: blueviolet;  
 }
