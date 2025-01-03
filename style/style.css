@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#head1{
+    text-align: center;
+    color: chocolate;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: aliceblue;
+}
+.sherpur_heading{
+    font-weight: 800;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+    background-color: bisque;
+    text-align: center;
+}
+.sherpur_paragraph{
+    font-size: 20px;
+    font-weight: bold;
+}
+.sherpur_section{
+    border: 10px solid tomato;
+    padding: 10px;
+    margin: 10px;
+}
+.sherpur_section2{
+    border: 10px solid rgb(24, 236, 183);
+    padding: 10px;
+    margin: 10px;
+}
+.img{
+    width: 300px;
+    height: 300px;
+    align-content: center;
+}
+.image_section{
+    border: 10px solid rgb(106, 168, 25);
+    margin: 10px;
+    padding: 5px;
+}
+.list_item{
+    margin-left: 30px;
+    color: blueviolet;
+    
+}
